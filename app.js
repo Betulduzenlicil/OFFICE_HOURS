@@ -1,4 +1,4 @@
-// https://api.coinranking.com/v2/search-suggestions?query=avax
+//& https://api.coinranking.com/v2/search-suggestions?query=avax
 
 const searchBtn = document.getElementById("button");
 const searchInput = document.querySelector("#searchFollowers");
